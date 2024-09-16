@@ -3,9 +3,9 @@
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedAbuEssa&count_private=true&theme=radical" />
 </a>
 
-<h1>Hi 👋, I'm </h1>
+<h1>Hi 👋, I'm Mohammad AbuEssa</h1>
 
-<p>A passionate frontend developer from </p>
+<p>A passionate frontend developer from Jordan</p>
 
 <h2>🛠 Skills</h2>
 <p>
